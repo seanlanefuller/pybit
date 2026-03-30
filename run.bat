@@ -1,0 +1,1 @@
+C:/Users/fullers/Desktop/pybit/.venv/Scripts/python.exe pybit.py
